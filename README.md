@@ -37,7 +37,7 @@ I'm a passionate self-taught software developer with an open mind and a willingn
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/Wilford__C)
-- Read more of my articles on [theenthusiast.dev](https://smartwebdesign.co.za/blog/)
+- Read more of my articles on [SmartWebDesign](https://smartwebdesign.co.za/blog/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
