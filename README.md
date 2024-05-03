@@ -7,16 +7,16 @@ I am a passionate Self Taught Software Developer at 365 Solutions, driven by a c
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my .
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 📝 I write in-depth, long-form articles on my website [Smart Web Design](https://smartwebdesign.co.za/), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- [Website Design Prices in South Africa](https://smartwebdesign.co.za/website-design-prices-in-south-africa/)
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,bootstrap,dotnet,js,ts,wordpress,angular,django)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -29,13 +29,13 @@ I am a passionate Self Taught Software Developer at 365 Solutions, driven by a c
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed Hacktoberfest 202 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com/Wilford__C)
+- Read more of my articles on [theenthusiast.dev](https://smartwebdesign.co.za/blog/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
