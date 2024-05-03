@@ -1,15 +1,15 @@
 # Hi, I'm Wilford! 👋
 
-I am a passionate Self Taught Software Developer at 365 Solutions, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I'm a passionate self-taught software developer with an open mind and a willingness to learn. My journey combines hands-on coding with a desire to explore new technologies.  Currently, I'm expanding my skillset by learning C# for certification and exploring Blazor C# for web development. My ultimate goal is to become a well-rounded DevOps engineer leveraging the power of cloud platforms like Azure.
 
-![wilford-c>'s Stats](https://github-readme-stats.vercel.app/api?wilford-ce=<wilford-c>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my .
+- 🔭 Currently Learning: C# for certification and Blazor C# for web development.
+- Goal: Become a skilled DevOps Engineer.
+- Certification: Microsoft Certified: Azure Fundamentals (Earned on January 18, 2024)
 - 📝 I write in-depth, long-form articles on my website [Smart Web Design](https://smartwebdesign.co.za/), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+
 
 ## My Articles
 - [Website Design Prices in South Africa](https://smartwebdesign.co.za/website-design-prices-in-south-africa/)
@@ -20,7 +20,9 @@ I am a passionate Self Taught Software Developer at 365 Solutions, driven by a c
 
 ## 🌱 Currently Exploring
 
+
 - 🚀 Learning Full Stack Web Development
+- C# Development: Deepening my understanding of C# to prepare for certification and explore web development possibilities with Blazor C#.
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
@@ -29,7 +31,7 @@ I am a passionate Self Taught Software Developer at 365 Solutions, driven by a c
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 202 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟Microsoft Certified: Azure Fundamentals (Earned on January 18, 2024)
 
 
 ## 📬 Get in Touch
