@@ -17,7 +17,7 @@ I'm a passionate self-taught software developer with an open mind and a drive to
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,blazor,react,redux,angular,bootstrap,tailwind,python,django,sql,postgres,wordpress,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,redux,angular,bootstrap,tailwind,python,django,sql,postgres,wordpress,azure)](https://skillicons.dev)
 
 ---
 
