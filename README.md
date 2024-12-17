@@ -59,7 +59,7 @@ I'm a passionate self-taught software developer with an open mind and a drive to
 - 🌐 Website: [Smart Web Design](https://smartwebdesign.co.za/)
 - 🐦 Twitter: [@Wilford__C](https://twitter.com/Wilford__C)
 - 💼 LinkedIn: [Wilford Chidawanyika](https://www.linkedin.com/in/wilford-chidawanyika/)
-- ✉️ Email: [shodzachidaz@gmail.com](mailto:shodzachidaz@gmail.com)
+- ✉️ Email: [wilford.chidawanyika@gmail.com](mailto:swilford.chidawanyika@gmail.com)
 
 ---
 
