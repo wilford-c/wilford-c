@@ -16,7 +16,7 @@ I'm a passionate self-taught software developer with an open mind and a willingn
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,bootstrap,dotnet,js,ts,wordpress,angular,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,bootstrap,dotnet,js,ts,wordpress,angular,django,sql,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
