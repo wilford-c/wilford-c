@@ -1,59 +1,66 @@
 # Hi, I'm Wilford! 👋
 
-I'm a passionate self-taught software developer with an open mind and a willingness to learn. My journey combines hands-on coding with a desire to explore new technologies.  Currently, I'm expanding my skillset by learning C# for certification and exploring Blazor C# for web development. My ultimate goal is to become a well-rounded DevOps engineer leveraging the power of cloud platforms like Azure.
+I'm a passionate self-taught software developer with an open mind and a drive to explore new technologies. My journey combines hands-on coding experience with a strong desire to keep learning and growing. Currently, I'm advancing my expertise in C# and Blazor for web development while working towards becoming a skilled DevOps engineer leveraging cloud platforms like Azure.
 
+---
 
 ## 🚀 About Me
 
-- 🔭 Currently Learning: C# for certification and Blazor C# for web development.
-- Goal: Become a skilled DevOps Engineer.
-- Certification: Microsoft Certified: Azure Fundamentals (Earned on January 18, 2024)
-- 📝 I write in-depth, long-form articles on my website [Smart Web Design](https://smartwebdesign.co.za/), accumulating over 20k views within just 2 months.
+- 🔭 **Currently Learning:** 
+  - C# for certification and web development with Blazor.
+  - Full Stack Web Development with a focus on React, Django, and PostgreSQL.
+- 🎯 **Goal:** Become a well-rounded DevOps Engineer.
+- 📜 **Certification:** Microsoft Certified: Azure Fundamentals (Earned on January 18, 2024).
+- 📝 **Writer:** I write detailed articles on web design and development topics on my website [Smart Web Design](https://smartwebdesign.co.za/), which has garnered over **20k views in just 2 months**.
 
+---
 
-## My Articles
-- [Website Design Prices in South Africa](https://smartwebdesign.co.za/website-design-prices-in-south-africa/)
+## 🛠️ Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,blazor,react,redux,angular,bootstrap,tailwind,python,django,sql,postgres,wordpress,azure)](https://skillicons.dev)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,bootstrap,dotnet,js,ts,wordpress,angular,django,sql,python)](https://skillicons.dev)
+---
 
 ## 🌱 Currently Exploring
 
+- **Front-End Development:**  
+  - React & Redux for creating dynamic and interactive user interfaces.  
+  - React Router for seamless navigation and SPA functionality.  
+  - Tailwind CSS for modern, responsive, and accessible design.  
 
-- 🚀 Learning Full Stack Web Development
-- C# Development: Deepening my understanding of C# to prepare for certification and explore web development possibilities with Blazor C#.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- **Back-End Development:**  
+  - Building scalable applications using Django.  
+  - Efficient database management with PostgreSQL.
 
- ## 🏆 Achievements
+- **C# Development:**  
+  - Deepening expertise in C# for advanced web applications using Blazor.
 
-- 🌟Microsoft Certified: Azure Fundamentals (Earned on January 18, 2024)
+- **Cloud & DevOps:**  
+  - Learning Azure services to strengthen my cloud computing knowledge.  
+  - Exploring CI/CD pipelines and containerization tools.
 
+---
+
+## 🏆 Achievements
+
+- 🌟 **Microsoft Certified: Azure Fundamentals** (January 18, 2024).
+- 🌐 **Web Design Expertise:** Over 20k views on articles written for [Smart Web Design](https://smartwebdesign.co.za/blog/).
+
+---
+
+## ✍️ My Articles
+
+- 📄 [Website Design Prices in South Africa](https://smartwebdesign.co.za/website-design-prices-in-south-africa/)
+
+---
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/Wilford__C)
-- Read more of my articles on [SmartWebDesign](https://smartwebdesign.co.za/blog/)
+- 🌐 Website: [Smart Web Design](https://smartwebdesign.co.za/)
+- 🐦 Twitter: [@Wilford__C](https://twitter.com/Wilford__C)
+- 💼 LinkedIn: [Wilford Chidawanyika](https://www.linkedin.com/in/wilford-chidawanyika/)
+- ✉️ Email: [shodzachidaz@gmail.com](mailto:shodzachidaz@gmail.com)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Thanks for stopping by! Let's connect, collaborate, and explore the fascinating world of technology together. 🚀
