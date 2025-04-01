@@ -1,66 +1,60 @@
 # Hi, I'm Wilford! 👋
 
-I'm a passionate self-taught software developer with an open mind and a drive to explore new technologies. My journey combines hands-on coding experience with a strong desire to keep learning and growing. Currently, I'm advancing my expertise in C# and Blazor for web development while working towards becoming a skilled DevOps engineer leveraging cloud platforms like Azure.
-
----
+I'm a passionate software developer with a strong background in databases, web development, and cloud computing. My journey blends hands-on coding experience with continuous learning and problem-solving. I'm currently expanding my expertise in C#, microservices, and cloud technologies while building practical solutions for businesses.
 
 ## 🚀 About Me
 
-- 🔭 **Currently Learning:** 
-  - C# for certification and web development with Blazor.
-  - Full Stack Web Development with a focus on React, Django, and PostgreSQL.
-- 🎯 **Goal:** Become a well-rounded DevOps Engineer.
-- 📜 **Certification:** Microsoft Certified: Azure Fundamentals (Earned on January 18, 2024).
-- 📝 **Writer:** I write detailed articles on web design and development topics on my website [Smart Web Design](https://smartwebdesign.co.za/), which has garnered over **20k views in just 2 months**.
+### 🔭 Currently Working On:
+- **CRM System**: Building a CRM using C# microservices and PostgreSQL.
+- **E-commerce API Integration**: Connecting Shopify to accounting software like NetSuite.
+- **Beauty Rewards System**: Managing voucher systems and BR adjustments in PostgreSQL.
+- **Mrlaptops.co.za**: Developing an affiliate marketing and e-commerce platform.
 
----
+### 📚 Currently Learning:
+- **DevOps & Cloud**: Advancing my Azure and CI/CD knowledge.
+- **Django & DRF**: Preparing for a software engineering assessment.
+- **Linux & MySQL**: Strengthening back-end development skills.
+- **JavaScript Frameworks**: Enhancing front-end skills with React.
+
+### 🎯 Goals:
+- Become a well-rounded **DevOps Engineer**.
+- Build scalable, event-driven **microservices**.
+- Enhance API development and **automation** skills.
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,react,redux,angular,bootstrap,tailwind,python,django,sql,postgres,wordpress,azure)](https://skillicons.dev)
+### **Backend:**
+- C# (.NET, Blazor, API Development)
+- Django & DRF
+- PostgreSQL & MySQL
 
----
+### **Frontend:**
+- React.js & Redux
+- JavaScript, HTML, CSS, Tailwind
 
-## 🌱 Currently Exploring
+### **Cloud & DevOps:**
+- Azure (Certifications in progress)
+- CI/CD Pipelines, Containerization (Docker, Kubernetes)
+- Linux Administration
 
-- **Front-End Development:**  
-  - React & Redux for creating dynamic and interactive user interfaces.  
-  - React Router for seamless navigation and SPA functionality.  
-  - Tailwind CSS for modern, responsive, and accessible design.  
-
-- **Back-End Development:**  
-  - Building scalable applications using Django.  
-  - Efficient database management with PostgreSQL.
-
-- **C# Development:**  
-  - Deepening expertise in C# for advanced web applications using Blazor.
-
-- **Cloud & DevOps:**  
-  - Learning Azure services to strengthen my cloud computing knowledge.  
-  - Exploring CI/CD pipelines and containerization tools.
-
----
+### **Other Skills:**
+- API Integration (Shopify, NetSuite, SMS Dispatch)
+- SQL Optimization & Database Management
+- IT Support & System Administration
 
 ## 🏆 Achievements
-
-- 🌟 **Microsoft Certified: Azure Fundamentals** (January 18, 2024).
-- 🌐 **Web Design Expertise:** Over 20k views on articles written for [Smart Web Design](https://smartwebdesign.co.za/blog/).
-
----
+- **Microsoft Certified: Azure Fundamentals** (January 18, 2024)
+- **8+ Years WordPress Development** (Elementor & Divi)
+- **Contributor to Open-Source & Technical Blogs**
 
 ## ✍️ My Articles
-
-- 📄 [Website Design Prices in South Africa](https://smartwebdesign.co.za/website-design-prices-in-south-africa/)
-
----
+- Website Design Prices in South Africa
+- API Development Best Practices
 
 ## 📬 Get in Touch
+🌐 [Mrlaptops.co.za](https://smartwebdesign.co.za)  
+💼 [LinkedIn: Wilford Chidawanyika](https://www.linkedin.com/in/wilford-chidawanyika/)  
+📧 Email: wilford.chidawanyika@gmail.com  
+🐦 Twitter: @Wilford__C  
 
-- 🌐 Website: [Smart Web Design](https://smartwebdesign.co.za/)
-- 🐦 Twitter: [@Wilford__C](https://twitter.com/Wilford__C)
-- 💼 LinkedIn: [Wilford Chidawanyika](https://www.linkedin.com/in/wilford-chidawanyika/)
-- ✉️ Email: [wilford.chidawanyika@gmail.com](mailto:swilford.chidawanyika@gmail.com)
-
----
-
-Thanks for stopping by! Let's connect, collaborate, and explore the fascinating world of technology together. 🚀
+Thanks for stopping by! Let's connect, collaborate, and innovate together. 🚀
