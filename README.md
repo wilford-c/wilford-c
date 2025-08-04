@@ -1,6 +1,6 @@
 # 👋 Wilford Chidawanyika - .NET Backend Developer
 
-Hello! I'm a **results-driven Backend Developer** based in **Johannesburg, South Africa**, with **over 6 years of experience** crafting high-performance, scalable backend systems using **C#, .NET Core, Web API, MVC, Blazor, and microservices**. I specialize in building robust APIs, optimizing databases, and automating DevOps workflows on cloud platforms like **Azure** and **AWS**. Passionate about clean code, Agile collaboration, and delivering solutions that scale seamlessly.
+Hello! I'm a **results-driven Backend Developer** based in **Johannesburg, South Africa**, with **over 7 years of experience** crafting high-performance, scalable backend systems using **C#, .NET Core, Web API, MVC, Blazor, and microservices**. I specialize in building robust APIs, optimizing databases, and automating DevOps workflows on cloud platforms like **Azure** and **AWS**. Passionate about clean code, Agile collaboration, and delivering solutions that scale seamlessly.
 
 ---
 
@@ -76,6 +76,15 @@ Hello! I'm a **results-driven Backend Developer** based in **Johannesburg, South
 - **ISC2 Cybersecurity Awareness** (Sep 2023)
 
 ---
+ Let's Connect!I'm always excited to collaborate, discuss tech, or explore new opportunities.
+ Reach out via: Website: smartwebdesign.co.za
+ GitHub: github.com/wilford-c
+ LinkedIn: Wilford Chidawanyika
+ Email: wilford.chidawanyika@gmail.com (mailto:wilford.chidawanyika@gmail.com)
+ Phone/WhatsApp: +27 62 595 0646
+ Twitter: @Wilford__C
+
+
 
 ## 💻 Tech Stack at a Glance
 
